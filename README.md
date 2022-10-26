@@ -4,5 +4,5 @@
     - Converts to lower case.
     - Removes Punctuations.
     - Splits Whitespaces.
- 2. Create Vocabulary of a text corpus
+    - Create Vocabulary of a text corpus
  
